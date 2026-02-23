@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/be8d5979-af37-4b50-a23d-d40a95a1fff9/thumbnail" >
+  <img src="https://api.boot.dev/v1/users/public/be8d5979-af37-4b50-a23d-d40a95a1fff9/thumbnail?v1" >
 </p>
 
 <!--
