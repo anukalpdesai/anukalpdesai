@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/be8d5979-af37-4b50-a23d-d40a95a1fff9/thumbnail" >
+</p>
 
 <!--
 **anukalpdesai/anukalpdesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
